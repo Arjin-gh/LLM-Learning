@@ -101,7 +101,7 @@ def prompt_process_v2(ingredient):
 
 llm = ChatOpenAI(
     base_url="https://api.deepseek.com",
-    api_key="sk-5cdc4bebd62a471ea6d4161ac3e6f016",
+    api_key="xxxxxxx",
     model='deepseek-chat',
     temperature=0.95
 )
